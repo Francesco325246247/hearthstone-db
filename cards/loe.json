@@ -573,7 +573,7 @@
             "attack": 3,
             "health": 4,
             "name": "Unearthed Raptor",
-            "description": "Battlecry: Choose a friendly minion. Gain a copy of its Deathrattle effect.",
+            "description": "Battlecry: Choose a friendly minion. Gain a copy of its Deathrattle.",
             "image_url": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/ZAM_1000212.png",
             "hero": "rogue",
             "race": "none",
